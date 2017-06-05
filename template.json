@@ -1,4 +1,4 @@
-[
+{
 	{
 		'Title': "Card title",
 		'Color': "Red",
@@ -13,4 +13,4 @@
 		'Additional_Info': "Cool stuff only",
 		'Artist': "Nombre"
 	}
-]
+}
