@@ -1,0 +1,12 @@
+{
+	Title: Card title,
+	Cost: mana cost,
+	Art: Image,
+	Type: Creature, Artifact,
+	Set: track release date
+	Text: Abilities and effects,
+	Attack:
+	Health:
+	Additional Info:
+	Artist:
+}
