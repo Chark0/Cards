@@ -1,9 +1,9 @@
 [
 	{
 		'Title': "Card title",
-		'Color': "Red"
+		'Color': "Red",
 		'Cost': [mana cost eg. 3cl, 3r],
-		'Art': Image.filen b,
+		'Art': "Image.file",
 		'Type': ["Creature", "Artifact"],
 		'Rarity': "Rarity from preset or can be first letter key Basic, Common, Rare, Epic, Mythic"
 		'Set': "symbol, track release dates",
